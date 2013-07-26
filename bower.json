@@ -1,0 +1,12 @@
+{
+  "name": "shopspot-bower-angular-cookies",
+  "version": "1.0.0",
+  "main": "angular-cookies.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
